@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port 3000",
-    "build": "vite build",
+    "dev": "vite src --port 3000",
+    "build": "vite build src",
     "preview": "vite preview"
   },
   "devDependencies": {
